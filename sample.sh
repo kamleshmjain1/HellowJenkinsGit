@@ -1,1 +1,1 @@
-echo "Hellow from Jenkins and Git"
+ech "Hellow from Jenkins and Git"
